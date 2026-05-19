@@ -4,6 +4,7 @@ python-dotenv
 langchain
 langchain-community
 langgraph
+langchain-text-splitters
 langchain-openai
 pypdf
 rapidocr-onnxruntime
