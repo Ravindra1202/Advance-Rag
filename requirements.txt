@@ -5,7 +5,11 @@ langchain
 langchain-community
 langgraph
 langchain-text-splitters
+langchain-experimental
 langchain-openai
+langchain_google
+langchain-google-genai
+langchain-ollama
 pypdf
 rapidocr-onnxruntime
 pytesseract
@@ -15,3 +19,5 @@ jq
 beautifulsoup4
 lxml
 ipykernel
+termcolor
+langchain-chroma

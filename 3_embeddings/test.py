@@ -8,7 +8,7 @@ llm = ChatOllama(
     model=os.getenv("OLLAMA_MODEL_NAME"),
 )
 
-response = llm.invoke("I love gen-ai")
+response = llm.invoke("who is the current pm of india")
 
 print(response)
 
